@@ -1,6 +1,0 @@
-User-agent: *
-Allow: /
-Disallow: /api/
-Disallow: /admin/
-Disallow: /private/
-Sitemap: https://pixora-neon-eight.vercel.app/sitemap.xml
