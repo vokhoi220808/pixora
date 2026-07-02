@@ -1,0 +1,7 @@
+{
+  "resource": "https://pixora-neon-eight.vercel.app/api",
+  "authorization_servers": [
+    "https://pixora-neon-eight.vercel.app"
+  ],
+  "scopes_supported": ["read", "write"]
+}
