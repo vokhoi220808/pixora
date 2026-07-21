@@ -39,7 +39,7 @@ npm run build
 
 - **Documentation/Guide:** [Hướng dẫn sử dụng](/guide)
 - **GitHub Repository:** [vokhoi220808/pixora](https://github.com/vokhoi220808/pixora)
-- **Truy cập Studio ngay:** [Mở Pixora Studio](pixora-neon-eight.vercel.app)
+- **Truy cập Studio ngay:** [Mở Pixora Studio](https://pixora-neon-eight.vercel.app)
 
 ## ⚠️ Disclaimer
 
